@@ -57,6 +57,6 @@ flexible protein simulations.
 Two weeks (2/1 - 2/14): To refine the MSES implementations and 
 implement and examine the GBMV/MSES GPU calculations.
 
-Two weeks (2/15 - 2/29): Several systems should be tested, including the (AAQAA)3, 3gb1, and
+Two weeks (2/15 - 2/29): Several systems should be tested, including the (AAQAA)3, GB1p, GB1m1, GB1m3, KID, and
 so on;
 
